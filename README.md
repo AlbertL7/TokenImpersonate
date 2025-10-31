@@ -1,5 +1,7 @@
 # Token Impersonation Tool v3.0
 
+## Note - Spawning a shell from impersonated process is not working correctly. I am having trouble with it. If you would like please contribute and help. Thanks.
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 ![License](https://img.shields.io/badge/License-Educational-red)
